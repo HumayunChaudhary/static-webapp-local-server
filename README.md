@@ -27,6 +27,7 @@ Start a lightweight local HTTP server:
 
 ```bash
 python3 -m http.server 8080
+```bash
 
 Then open in your browser:
 
